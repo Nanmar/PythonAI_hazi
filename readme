@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/1cdholRZIVTIFaKmgie6heRBf9dfBTAzu?usp=sh
 A teljes adatset elérhetősége:
 https://www.kaggle.com/datasets/brsdincer/vehicle-detection-image-set/
 
-Az általam használt képek elérhetősége:
+Az általam használt képek elérhetősége (csak egy részét használtam a teljes 17760 képből álló adatsetnek)
 https://drive.google.com/drive/folders/1gAK0AJqoY8eG758m1pcFrh3Y-wTW_SqR?usp=sharing
 
 Féléves házi feladatnak 64x64-es felbontású képfelismerést választottam, ami egy bináris klasszifikáció. A CNN-nek el kell döntenie, hogy jármű van-e a képen, vagy sem.
