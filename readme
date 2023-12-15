@@ -23,64 +23,116 @@ Az epoch-ok számát 15-nek veszem, mert a megfigyelés alapján, innentől kezd
 
 A 20-as epoch szám alatt lefutott eredmények:
 
-Epoch 1/20, Loss: 0.8805, Validation Accuracy: 85.71%
-Correct:180
-Total:210
-Epoch 2/20, Loss: 0.3550, Validation Accuracy: 94.76%
-Correct:199
-Total:210
-Epoch 3/20, Loss: 0.0809, Validation Accuracy: 94.76%
-Correct:199
-Total:210
-Epoch 4/20, Loss: 0.6394, Validation Accuracy: 57.62%
-Correct:121
-Total:210
-Epoch 5/20, Loss: 0.2190, Validation Accuracy: 93.33%
-Correct:196
-Total:210
-Epoch 6/20, Loss: 0.0068, Validation Accuracy: 96.67%
-Correct:203
-Total:210
-Epoch 7/20, Loss: 0.0072, Validation Accuracy: 95.24%
-Correct:200
-Total:210
-Epoch 8/20, Loss: 0.0027, Validation Accuracy: 96.19%
-Correct:202
-Total:210
-Epoch 9/20, Loss: 0.0088, Validation Accuracy: 96.67%
-Correct:203
-Total:210
-Epoch 10/20, Loss: 0.0032, Validation Accuracy: 96.67%
-Correct:203
-Total:210
-Epoch 11/20, Loss: 0.0271, Validation Accuracy: 96.67%
-Correct:203
-Total:210
-Epoch 12/20, Loss: 0.0006, Validation Accuracy: 96.67%
-Correct:203
-Total:210
-Epoch 13/20, Loss: 0.0064, Validation Accuracy: 96.67%
-Correct:203
-Total:210
-Epoch 14/20, Loss: 0.0021, Validation Accuracy: 96.67%
-Correct:203
-Total:210
-Epoch 15/20, Loss: 0.0002, Validation Accuracy: 97.14%
-Correct:204
-Total:210
-Epoch 16/20, Loss: 0.0008, Validation Accuracy: 97.14%
-Correct:204
-Total:210
-Epoch 17/20, Loss: 0.0107, Validation Accuracy: 97.14%
-Correct:204
-Total:210
-Epoch 18/20, Loss: 0.0269, Validation Accuracy: 96.19%
-Correct:202
-Total:210
-Epoch 19/20, Loss: 0.0720, Validation Accuracy: 94.76%
-Correct:199
-Total:210
-Epoch 20/20, Loss: 0.0044, Validation Accuracy: 96.67%
-Correct:203
-Total:210
+Epoch 1/20, Loss: 0.8805, Validation Accuracy: 85.58%
+Correct:89
+Total:104
+Epoch 2/20, Loss: 0.3550, Validation Accuracy: 95.19%
+Correct:99
+Total:104
+Epoch 3/20, Loss: 0.0809, Validation Accuracy: 97.12%
+Correct:101
+Total:104
+Epoch 4/20, Loss: 0.6394, Validation Accuracy: 53.85%
+Correct:56
+Total:104
+Epoch 5/20, Loss: 0.2190, Validation Accuracy: 93.27%
+Correct:97
+Total:104
+Epoch 6/20, Loss: 0.0068, Validation Accuracy: 97.12%
+Correct:101
+Total:104
+Epoch 7/20, Loss: 0.0072, Validation Accuracy: 96.15%
+Correct:100
+Total:104
+Epoch 8/20, Loss: 0.0027, Validation Accuracy: 97.12%
+Correct:101
+Total:104
+Epoch 9/20, Loss: 0.0088, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 10/20, Loss: 0.0032, Validation Accuracy: 97.12%
+Correct:101
+Total:104
+Epoch 11/20, Loss: 0.0271, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 12/20, Loss: 0.0006, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 13/20, Loss: 0.0064, Validation Accuracy: 97.12%
+Correct:101
+Total:104
+Epoch 14/20, Loss: 0.0021, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 15/20, Loss: 0.0002, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 16/20, Loss: 0.0008, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 17/20, Loss: 0.0107, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 18/20, Loss: 0.0269, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 19/20, Loss: 0.0720, Validation Accuracy: 96.15%
+Correct:100
+Total:104
+Epoch 20/20, Loss: 0.0044, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+---Test Accuracy: 95.28%---
+
+
+
+A A 15-ös epoch szám alatt lefutott eredmények:
+
+Epoch 1/15, Loss: 0.8805, Validation Accuracy: 85.58%
+Correct:89
+Total:104
+Epoch 2/15, Loss: 0.3550, Validation Accuracy: 95.19%
+Correct:99
+Total:104
+Epoch 3/15, Loss: 0.0809, Validation Accuracy: 97.12%
+Correct:101
+Total:104
+Epoch 4/15, Loss: 0.6394, Validation Accuracy: 53.85%
+Correct:56
+Total:104
+Epoch 5/15, Loss: 0.2190, Validation Accuracy: 93.27%
+Correct:97
+Total:104
+Epoch 6/15, Loss: 0.0068, Validation Accuracy: 97.12%
+Correct:101
+Total:104
+Epoch 7/15, Loss: 0.0072, Validation Accuracy: 96.15%
+Correct:100
+Total:104
+Epoch 8/15, Loss: 0.0027, Validation Accuracy: 97.12%
+Correct:101
+Total:104
+Epoch 9/15, Loss: 0.0088, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 10/15, Loss: 0.0032, Validation Accuracy: 97.12%
+Correct:101
+Total:104
+Epoch 11/15, Loss: 0.0271, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 12/15, Loss: 0.0006, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 13/15, Loss: 0.0064, Validation Accuracy: 97.12%
+Correct:101
+Total:104
+Epoch 14/15, Loss: 0.0021, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+Epoch 15/15, Loss: 0.0002, Validation Accuracy: 98.08%
+Correct:102
+Total:104
+---Test Accuracy: 96.23%---
 
