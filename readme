@@ -18,6 +18,8 @@ A konvolúciós neurális háló felépítésében, a tanulás képességének n
 "Veszteségi" függvénynek a nn.CrossEntropyLoss()-t használtam, "optimalizációs" függvénynek pedig torch.optim.SGD()-t. A képfelismerés feladatához a szakirodalmak többek között ezeket ajánlották, ezért döntöttem mellettük.
 
 Az epoch-ok számát 15-nek veszem, mert a megfigyelés alapján, innentől kezd a háló "overfit" lenni, elkezd a pontosság csökkeni.
+Nekem, egy nem túl erős laptopon, körülbelül 3-3,5 perc alatt futott le 20 epoch-számmal.
+
 
 
 
